@@ -1,9 +1,3 @@
-répartition même ordre
-+ choisir où on le met
-
-aggrandir le tout
-
-afficher planning oui/non
 dbl click ajouter rdv
 bloquage les rdvs
 
